@@ -67,7 +67,7 @@ button {
 
 /*/
 / POP-UP ANIMATION STYLES //*/
-#pop-u {
+#pop-up {
   top: -400px;
   transform-origin: 10px 10px;
   animation: drop 0.5s ease forwards, swing 2s 3s ease forwards;
